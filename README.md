@@ -57,13 +57,6 @@ Discrepancies between simulation and physical results were attributed to:
 
 ---
 
-## 📸 Results & Figures (add screenshots)  
-- ![Simulation Waveform](images/sim_results.png)  
-- ![Breadboard Setup](images/hardware_setup.png)  
-- ![Measured Output](images/measurement.png)  
-
----
-
 ## 📚 References  
 1. Elprocus – *Center-Tapped Full-Wave Rectifier*  
 2. Diodes Inc. – *1N4148 Datasheet*  
