@@ -1,0 +1,1 @@
+This project is a DC Power Supply designed and simulated as part of McMaster University’s ELECENG 2EI4 course. The circuit was modeled and tested using OrCAD PSpice to analyze performance and verify functionality
